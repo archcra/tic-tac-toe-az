@@ -1,0 +1,36 @@
+
+
+
+
+
+ITERATION NUMBER 1
+BEST PLAYER VERSION 0
+SELF PLAYING 30 EPISODES...
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+
+MEMORY SIZE: 185
+ITERATION NUMBER 2
+BEST PLAYER VERSION 0
+SELF PLAYING 30 EPISODES...
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30
+
+
+这个很快，约一秒钟一盘。
+
+
+
+
+
+TOURNAMENT...
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+SCORES
+{'best_player': 6, 'drawn': 9, 'current_player': 5}
+
+STARTING PLAYER / NON-STARTING PLAYER SCORES
+{'sp': 11, 'drawn': 9, 'nsp': 0}
+
+
+
+
+Buts-MacBook-Pro:tic-tac-toe-az holibut$ ls run/models/
+model.png	version0001.h5	version0002.h5	version0003.h5
